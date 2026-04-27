@@ -1,0 +1,13 @@
+Contents
+- [General Resources](https://github.com/LuisCordobaReyes/Master-Mechanical-Engineer#General-Resources)
+
+- Computer-Aided Design (CAD)
+- Computer-Aided Manufacturing (CAM)
+- Computer-Aided Engineering (CAE)
+- Simulation & Analysis
+- Materials Science
+- Manufacturing & Automation
+- Robotics & Mechatronics
+- Thermal & Fluid Systems
+- Open-Source Tools
+- Educational Resources
