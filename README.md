@@ -14,11 +14,11 @@
 - [Educational Resources](https://github.com/LuisCordobaReyes/Master-Mechanical-Engineer#Educational-Resources)
 ## General Resources
 ## Computer-Aided Design (CAD)
-- AutoCAD
-- SolidWorks
-- Fusion 360
-- Inventor
-- Creo
+- [AutoCAD](https://www.autodesk.com/products/autocad/overview)
+- [SolidWorks](https://www.solidworks.com/product/solidworks-design)
+- [Fusion 360](https://www.autodesk.com/products/fusion-360/overview)
+- [Inventor](https://www.autodesk.com/products/inventor/overview?mktvar002=5659199|SEM|292754951|22909552031|kwd-713213771&utm_source=GGL&utm_medium=SEM&utm_campaign=GGL_D-M_All-Products_AMER_US_eComm_SEM_BR_NEW_EX_0067_5659199&utm_id=5659199&utm_term=kwd-713213771&term=1-YEAR&tab=subscription&gad_source=1&gad_campaignid=292754951&gbraid=0AAAAADx7pE12q48i8MEzXrb_5lrLjAAVY&gclid=Cj0KCQjwkrzPBhCqARIsAJN460l3vsIHnava9ukC3NcQSZ-oYZz8g_C6Ftr1v_xi4qDbyUfRJ2FUFnEaAmXzEALw_wcB)
+- [Creo](https://www.ptc.com/en/products/creo?srsltid=AfmBOoqBzXOp1FiAdK6vaJTMGgEFtLq3Voa_iPvbPtcYJ9Zf42qbmRmd)
 - OnShape
 - CATIA
 ## Computer-Aided Manufacturing (CAM)
